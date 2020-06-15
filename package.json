@@ -7,8 +7,10 @@
 		"start": "node server.js"
 	},
 	"dependencies": {
+		"concat-stream": "^2.0.0",
+		"cors": "^2.8.1",
 		"express": "^5.0.0-alpha.2",
-		"cors": "^2.8.1"
+		"express-fileupload": "^1.1.7-alpha.3"
 	},
 	"engines": {
 		"node": "4.4.5"
